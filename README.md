@@ -61,16 +61,11 @@ Or deploy it on GitHub Pages:
 
 ---
 
-## 📌 Screenshots
-
-(Add screenshots of your home page, editor, calendar, etc. here using `![alt text](image-url)` format)
-
----
 
 ## 📧 Contact
 
-Created by **Harshitha Somu**  
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/harshitha-somu) 
+Created by **Akshaya Somu**  
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/akshaya-somu-a57844317) 
 
 ---
 
